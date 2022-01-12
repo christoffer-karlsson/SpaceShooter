@@ -1,0 +1,15 @@
+#pragma once
+
+#include "buffer\offscreen_buffer.h"
+#include "renderer\render_base.h"
+#include "renderer\render_queue.h"
+#include "asset_loader\asset_loader.h"
+#include "asset_loader\load_file.h"
+#include "asset_loader\load_file_bmp.h"
+#include "asset_loader\load_file_font.h"
+#include "entity\entity_queue.h"
+#include "entity\entity_object.h"
+#include "entity\entity_player.h"
+#include "entity\entity_enemy.h"
+#include "input\game_input.h"
+#include "debug\debug_display.h"
